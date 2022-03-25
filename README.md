@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @cleeford2
+- 👋 Hi, I’m Cleeford Innocent
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning the M.E.R.N stack
-- 💞️ I’m looking to collaborate on anything software engineering 
+- I am a full stack Javascript M.E.R.N Developer
 - 📫 How to reach me cleeford2@gmail.com
 
 <!---
